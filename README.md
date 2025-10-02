@@ -24,7 +24,7 @@
 ---
 
 ## 📌 Featured Projects
-[![Ballkeeper](https://github.com/user-attachments/assets/71ebef62-3c09-483d-a177-21f27cfd2dcd)](https://github.com/JB-Capstone/Ballkeeper.git) : Sports equipment rental & reservation system <br>
+[![Ballkeeper](https://github.com/user-attachments/assets/71ebef62-3c09-483d-a177-21f27cfd2dcd)](https://github.com/Rockernun/Capstone-BallKeeper-backend.git) : Sports equipment rental & reservation system <br>
 
 ---
 
