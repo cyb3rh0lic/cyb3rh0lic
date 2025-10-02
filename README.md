@@ -24,8 +24,7 @@
 ---
 
 ## 📌 Featured Projects
-- [**BallKeeper**](https://github.com/JB-Capstone/Ballkeeper.git) : Sports equipment rental & reservation system <br>
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring AI](https://img.shields.io/badge/spring&nbsp;ai-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) <!--![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)-->
+[![Ballkeeper](https://github.com/user-attachments/assets/71ebef62-3c09-483d-a177-21f27cfd2dcd)](https://github.com/JB-Capstone/Ballkeeper.git) : Sports equipment rental & reservation system <br>
 
 ---
 
